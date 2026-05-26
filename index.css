@@ -122,6 +122,7 @@ body {
     right: 0%;
     padding-right: 30px;
     animation: anime .6s 2s linear infinite normal;
+    z-index: 2000;
 }
 
 .logo-container:hover {
